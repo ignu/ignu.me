@@ -12,7 +12,7 @@ const style = {
     height: rhythm(2)
   },
   p: {
-    marginBottom: rhythm(2.5)
+    marginBottom: rhythm(1.1)
   }
 }
 
